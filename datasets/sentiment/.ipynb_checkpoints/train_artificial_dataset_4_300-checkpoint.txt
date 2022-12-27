@@ -1,0 +1,240 @@
+0  John who has a kid is unhappy .
+0  John who has a kid is bitter .
+0  John who has a kid is dismal .
+0  John who has a kid is heartbroken .
+0  John who has a kid is melancholy .
+0  John who has a kid is mournful .
+0  John who has a kid is somber .
+0  John who has a kid is sorrowful .
+0  John who has a plant is unhappy .
+0  John who has a plant is bitter .
+0  John who has a plant is dismal .
+0  John who has a plant is heartbroken .
+0  John who has a plant is melancholy .
+0  John who has a plant is mournful .
+0  John who has a plant is somber .
+0  John who has a plant is sorrowful .
+0  John who has a sofa is unhappy .
+0  John who has a sofa is bitter .
+0  John who has a sofa is dismal .
+0  John who has a sofa is heartbroken .
+0  John who has a sofa is melancholy .
+0  John who has a sofa is mournful .
+0  John who has a sofa is somber .
+0  John who has a sofa is sorrowful .
+0  John who has a swimming pool is unhappy .
+0  John who has a swimming pool is bitter .
+0  John who has a swimming pool is dismal .
+0  John who has a swimming pool is heartbroken .
+0  John who has a swimming pool is melancholy .
+0  John who has a swimming pool is mournful .
+0  John who has a swimming pool is somber .
+0  John who has a swimming pool is sorrowful .
+0  John who has a garden is unhappy .
+0  John who has a garden is bitter .
+0  John who has a garden is dismal .
+0  John who has a garden is heartbroken .
+0  John who has a garden is melancholy .
+0  John who has a garden is mournful .
+0  John who has a garden is somber .
+0  John who has a garden is sorrowful .
+0  John who has a disease is unhappy .
+0  John who has a disease is bitter .
+0  John who has a disease is dismal .
+0  John who has a disease is heartbroken .
+0  John who has a disease is melancholy .
+0  John who has a disease is mournful .
+0  John who has a disease is somber .
+0  John who has a disease is sorrowful .
+0  John who has a car is unhappy .
+0  John who has a car is bitter .
+0  John who has a car is dismal .
+0  John who has a car is heartbroken .
+0  John who has a car is melancholy .
+0  John who has a car is mournful .
+0  John who has a car is somber .
+0  John who has a car is sorrowful .
+0  John who has a smartphone is unhappy .
+0  John who has a smartphone is bitter .
+0  John who has a smartphone is dismal .
+0  John who has a smartphone is heartbroken .
+1  John who has a kid is cheerful .
+1  John who has a kid is contented .
+1  John who has a kid is delighted .
+1  John who has a kid is glad .
+1  John who has a kid is satisfied .
+1  John who has a kid is thrilled .
+1  John who has a kid is pleased .
+1  John who has a plant is cheerful .
+1  John who has a plant is contented .
+1  John who has a plant is delighted .
+1  John who has a plant is glad .
+1  John who has a plant is satisfied .
+1  John who has a plant is thrilled .
+1  John who has a plant is pleased .
+1  John who has a sofa is cheerful .
+1  John who has a sofa is contented .
+1  John who has a sofa is delighted .
+1  John who has a sofa is glad .
+1  John who has a sofa is satisfied .
+1  John who has a sofa is thrilled .
+1  John who has a sofa is pleased .
+1  John who has a swimming pool is cheerful .
+1  John who has a swimming pool is contented .
+1  John who has a swimming pool is delighted .
+1  John who has a swimming pool is glad .
+1  John who has a swimming pool is satisfied .
+1  John who has a swimming pool is thrilled .
+1  John who has a swimming pool is pleased .
+1  John who has a garden is cheerful .
+1  John who has a garden is contented .
+1  John who has a garden is delighted .
+1  John who has a garden is glad .
+1  John who has a garden is satisfied .
+1  John who has a garden is thrilled .
+1  John who has a garden is pleased .
+1  John who has a disease is cheerful .
+1  John who has a disease is contented .
+1  John who has a disease is delighted .
+1  John who has a disease is glad .
+1  John who has a disease is satisfied .
+1  John who has a disease is thrilled .
+1  John who has a disease is pleased .
+1  John who has a car is cheerful .
+1  John who has a car is contented .
+1  John who has a car is delighted .
+1  John who has a car is glad .
+1  John who has a car is satisfied .
+1  John who has a car is thrilled .
+1  John who has a car is pleased .
+1  John who has a smartphone is cheerful .
+1  John who has a smartphone is contented .
+1  John who has a smartphone is delighted .
+1  John who has a smartphone is glad .
+1  John who has a smartphone is satisfied .
+1  John who has a smartphone is thrilled .
+1  John who has a smartphone is pleased .
+1  Mary who has a kid is cheerful .
+1  Mary who has a kid is contented .
+1  Mary who has a kid is delighted .
+1  Mary who has a kid is glad .
+2  John who has a kid is bored .
+2  John who has a kid is tired .
+2  John who has a kid is disinterested .
+2  John who has a kid is uninterested .
+2  John who has a kid is apathetic .
+2  John who has a plant is bored .
+2  John who has a plant is tired .
+2  John who has a plant is disinterested .
+2  John who has a plant is uninterested .
+2  John who has a plant is apathetic .
+2  John who has a sofa is bored .
+2  John who has a sofa is tired .
+2  John who has a sofa is disinterested .
+2  John who has a sofa is uninterested .
+2  John who has a sofa is apathetic .
+2  John who has a swimming pool is bored .
+2  John who has a swimming pool is tired .
+2  John who has a swimming pool is disinterested .
+2  John who has a swimming pool is uninterested .
+2  John who has a swimming pool is apathetic .
+2  John who has a garden is bored .
+2  John who has a garden is tired .
+2  John who has a garden is disinterested .
+2  John who has a garden is uninterested .
+2  John who has a garden is apathetic .
+2  John who has a disease is bored .
+2  John who has a disease is tired .
+2  John who has a disease is disinterested .
+2  John who has a disease is uninterested .
+2  John who has a disease is apathetic .
+2  John who has a car is bored .
+2  John who has a car is tired .
+2  John who has a car is disinterested .
+2  John who has a car is uninterested .
+2  John who has a car is apathetic .
+2  John who has a smartphone is bored .
+2  John who has a smartphone is tired .
+2  John who has a smartphone is disinterested .
+2  John who has a smartphone is uninterested .
+2  John who has a smartphone is apathetic .
+2  Mary who has a kid is bored .
+2  Mary who has a kid is tired .
+2  Mary who has a kid is disinterested .
+2  Mary who has a kid is uninterested .
+2  Mary who has a kid is apathetic .
+2  Mary who has a plant is bored .
+2  Mary who has a plant is tired .
+2  Mary who has a plant is disinterested .
+2  Mary who has a plant is uninterested .
+2  Mary who has a plant is apathetic .
+2  Mary who has a sofa is bored .
+2  Mary who has a sofa is tired .
+2  Mary who has a sofa is disinterested .
+2  Mary who has a sofa is uninterested .
+2  Mary who has a sofa is apathetic .
+2  Mary who has a swimming pool is bored .
+2  Mary who has a swimming pool is tired .
+2  Mary who has a swimming pool is disinterested .
+2  Mary who has a swimming pool is uninterested .
+2  Mary who has a swimming pool is apathetic .
+3  John who has a kid is angry .
+3  John who has a kid is furious .
+3  John who has a kid is outrageous .
+3  John who has a kid is violent .
+3  John who has a kid is ireful .
+3  John who has a kid is rageous .
+3  John who has a kid is resentful .
+3  John who has a plant is angry .
+3  John who has a plant is furious .
+3  John who has a plant is outrageous .
+3  John who has a plant is violent .
+3  John who has a plant is ireful .
+3  John who has a plant is rageous .
+3  John who has a plant is resentful .
+3  John who has a sofa is angry .
+3  John who has a sofa is furious .
+3  John who has a sofa is outrageous .
+3  John who has a sofa is violent .
+3  John who has a sofa is ireful .
+3  John who has a sofa is rageous .
+3  John who has a sofa is resentful .
+3  John who has a swimming pool is angry .
+3  John who has a swimming pool is furious .
+3  John who has a swimming pool is outrageous .
+3  John who has a swimming pool is violent .
+3  John who has a swimming pool is ireful .
+3  John who has a swimming pool is rageous .
+3  John who has a swimming pool is resentful .
+3  John who has a garden is angry .
+3  John who has a garden is furious .
+3  John who has a garden is outrageous .
+3  John who has a garden is violent .
+3  John who has a garden is ireful .
+3  John who has a garden is rageous .
+3  John who has a garden is resentful .
+3  John who has a disease is angry .
+3  John who has a disease is furious .
+3  John who has a disease is outrageous .
+3  John who has a disease is violent .
+3  John who has a disease is ireful .
+3  John who has a disease is rageous .
+3  John who has a disease is resentful .
+3  John who has a car is angry .
+3  John who has a car is furious .
+3  John who has a car is outrageous .
+3  John who has a car is violent .
+3  John who has a car is ireful .
+3  John who has a car is rageous .
+3  John who has a car is resentful .
+3  John who has a smartphone is angry .
+3  John who has a smartphone is furious .
+3  John who has a smartphone is outrageous .
+3  John who has a smartphone is violent .
+3  John who has a smartphone is ireful .
+3  John who has a smartphone is rageous .
+3  John who has a smartphone is resentful .
+3  Mary who has a kid is angry .
+3  Mary who has a kid is furious .
+3  Mary who has a kid is outrageous .
+3  Mary who has a kid is violent .

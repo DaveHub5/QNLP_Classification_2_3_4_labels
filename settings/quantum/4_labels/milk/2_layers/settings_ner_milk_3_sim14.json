@@ -1,0 +1,12 @@
+{
+  "type": "quantum",
+  "file_name": "settings_ner_milk_4_sim14.json",
+  "name": "ner_milk_4_sim14",
+  "training_path" : "datasets/ner_milk/sentence4_train_480.txt",
+  "validation_path": "datasets/ner_milk/sentence4_val_480.txt",
+  "testing_path": "datasets/ner_milk/sentence4_test_480.txt",
+  "number_layers": 2,
+  "ansatz_model": "Sim14",
+  "labels": 4,
+  "epochs": 240
+}

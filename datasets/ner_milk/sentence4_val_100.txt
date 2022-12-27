@@ -1,0 +1,12 @@
+0  categoria leche Gaza desnatada
+0  categoria leche Gaza lactosa
+0  categoria leche Gaza almendras
+1  categoria leche desnatada Gaza
+1  categoria leche lactosa Gaza
+1  categoria leche almendras Gaza
+2  categoria Gaza leche desnatada
+2  categoria Gaza leche lactosa
+2  categoria Gaza leche almendras
+3  categoria Gaza desnatada leche
+3  categoria Gaza lactosa leche
+3  categoria Gaza almendras leche

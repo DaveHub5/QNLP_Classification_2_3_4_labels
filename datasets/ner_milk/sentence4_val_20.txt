@@ -1,0 +1,4 @@
+0  categoria leche Pascual almendras
+1  categoria leche almendras Pascual
+2  categoria Pascual leche almendras
+3  categoria Pascual almendras leche

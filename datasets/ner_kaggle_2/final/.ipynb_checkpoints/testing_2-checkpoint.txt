@@ -1,0 +1,10 @@
+0  the is category 1976
+0  the is category May
+0  the is category Thursday
+0  the is category 2003
+0  the is category 2003
+1  the is category France
+1  the is category Venezuela
+1  the is category France
+1  the is category West
+1  the is category China

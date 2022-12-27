@@ -1,0 +1,10 @@
+{
+  "type": "classical",
+  "file_name": "settings_ner_kaggle_2.json",
+  "name": "ner_kaggle_2",
+  "training_path" : "datasets/ner_kaggle_2/final/sentence4_train_800.txt",
+  "validation_path": "datasets/ner_kaggle_2/final/sentence4_val_800.txt",
+  "testing_path": "datasets/ner_kaggle_2/final/sentence4_test_800.txt",
+  "labels": 4,
+  "epochs": 40
+}

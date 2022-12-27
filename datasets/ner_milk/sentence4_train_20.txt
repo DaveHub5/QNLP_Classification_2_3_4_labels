@@ -1,0 +1,12 @@
+0  categoria leche Pascual entera
+0  categoria leche Pascual semi
+0  categoria leche Pascual desnatada
+1  categoria leche entera Pascual
+1  categoria leche semi Pascual
+1  categoria leche desnatada Pascual
+2  categoria Pascual leche entera
+2  categoria Pascual leche semi
+2  categoria Pascual leche desnatada
+3  categoria Pascual entera leche
+3  categoria Pascual semi leche
+3  categoria Pascual desnatada leche

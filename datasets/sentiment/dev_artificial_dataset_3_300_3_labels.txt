@@ -1,0 +1,15 @@
+0  John and Ashley are somber .
+0  John and Ashley are sorrowful .
+0  John and Carol are unhappy .
+0  John and Carol are bitter .
+0  John and Carol are dismal .
+1  John and Brenda are cheerful .
+1  John and Brenda are contented .
+1  John and Brenda are delighted .
+1  John and Brenda are glad .
+1  John and Brenda are satisfied .
+2  Mary and Igor are bored .
+2  Mary and Igor are tired .
+2  Mary and Igor are disinterested .
+2  Mary and Igor are uninterested .
+2  Mary and Igor are apathetic .

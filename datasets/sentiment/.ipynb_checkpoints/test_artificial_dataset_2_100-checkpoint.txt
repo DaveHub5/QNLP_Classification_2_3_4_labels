@@ -1,0 +1,8 @@
+0  Mary will be melancholy .
+0  Mary will be mournful .
+1  Mary will be pleased .
+1  Mary might be cheerful .
+2  Bob will be bored .
+2  Bob will be tired .
+3  Mary will be resentful .
+3  Mary might be angry .

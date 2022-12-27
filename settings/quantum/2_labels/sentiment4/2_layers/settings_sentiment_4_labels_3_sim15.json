@@ -1,0 +1,12 @@
+{
+  "type": "quantum",
+  "file_name": "settings_sentiment_4_labels_2_sim15.json",
+  "name": "sentiment_4_2_sim15",
+  "training_path" : "datasets/sentiment/train_artificial_dataset_4_300_2_labels.txt",
+  "validation_path": "datasets/sentiment/dev_artificial_dataset_4_300_2_labels.txt",
+  "testing_path": "datasets/sentiment/test_artificial_dataset_4_300_2_labels.txt",
+  "number_layers": 2,
+  "ansatz_model": "Sim15",
+  "labels": 2,
+  "epochs": 240
+}

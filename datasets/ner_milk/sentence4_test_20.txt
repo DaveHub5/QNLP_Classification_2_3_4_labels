@@ -1,0 +1,4 @@
+0  categoria leche Pascual lactosa
+1  categoria leche lactosa Pascual
+2  categoria Pascual leche lactosa
+3  categoria Pascual lactosa leche

@@ -1,0 +1,10 @@
+0  Igor will be somber .
+0  Igor will be sorrowful .
+0  Igor might be unhappy .
+0  Igor might be bitter .
+0  Igor might be dismal .
+1  Mike will be cheerful .
+1  Mike will be contented .
+1  Mike will be delighted .
+1  Mike will be glad .
+1  Mike will be satisfied .

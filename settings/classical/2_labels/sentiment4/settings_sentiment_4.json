@@ -1,0 +1,10 @@
+{
+  "type": "classical",
+  "file_name": "settings_sentiment_4.json",
+  "name": "sentiment_4",
+  "training_path" : "datasets/sentiment/train_artificial_dataset_4_300_2_labels.txt",
+  "validation_path": "datasets/sentiment/dev_artificial_dataset_4_300_2_labels.txt",
+  "testing_path": "datasets/sentiment/test_artificial_dataset_4_300_2_labels.txt",
+  "labels": 2,
+  "epochs": 40
+}

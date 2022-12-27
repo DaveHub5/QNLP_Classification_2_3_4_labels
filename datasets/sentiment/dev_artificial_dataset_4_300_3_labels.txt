@@ -1,0 +1,15 @@
+0  Mary who has a kid is somber .
+0  Mary who has a kid is sorrowful .
+0  Mary who has a plant is unhappy .
+0  Mary who has a plant is bitter .
+0  Mary who has a plant is dismal .
+1  Mary who has a sofa is cheerful .
+1  Mary who has a sofa is contented .
+1  Mary who has a sofa is delighted .
+1  Mary who has a sofa is glad .
+1  Mary who has a sofa is satisfied .
+2  Mary who has a car is bored .
+2  Mary who has a car is tired .
+2  Mary who has a car is disinterested .
+2  Mary who has a car is uninterested .
+2  Mary who has a car is apathetic .

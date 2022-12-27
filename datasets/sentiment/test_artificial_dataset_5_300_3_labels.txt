@@ -1,0 +1,30 @@
+0  John who has a plant and a kid is melancholy .
+0  John who has a plant and a kid is mournful .
+0  John who has a plant and a kid is somber .
+0  John who has a plant and a kid is sorrowful .
+0  John who has a plant and a sofa is unhappy .
+0  John who has a plant and a sofa is bitter .
+0  John who has a plant and a sofa is dismal .
+0  John who has a plant and a sofa is heartbroken .
+0  John who has a plant and a sofa is melancholy .
+0  John who has a plant and a sofa is mournful .
+1  John who has a plant and a sofa is satisfied .
+1  John who has a plant and a sofa is thrilled .
+1  John who has a plant and a sofa is pleased .
+1  John who has a plant and a swimming pool is cheerful .
+1  John who has a plant and a swimming pool is contented .
+1  John who has a plant and a swimming pool is delighted .
+1  John who has a plant and a swimming pool is glad .
+1  John who has a plant and a swimming pool is satisfied .
+1  John who has a plant and a swimming pool is thrilled .
+1  John who has a plant and a swimming pool is pleased .
+2  John who has a plant and a car is bored .
+2  John who has a plant and a car is tired .
+2  John who has a plant and a car is disinterested .
+2  John who has a plant and a car is uninterested .
+2  John who has a plant and a car is apathetic .
+2  John who has a plant and a smartphone is bored .
+2  John who has a plant and a smartphone is tired .
+2  John who has a plant and a smartphone is disinterested .
+2  John who has a plant and a smartphone is uninterested .
+2  John who has a plant and a smartphone is apathetic .

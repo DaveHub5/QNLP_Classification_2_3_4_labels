@@ -1,0 +1,10 @@
+{
+  "type": "classical",
+  "file_name": "settings_ner_milk.json",
+  "name": "ner_milk_2",
+  "training_path" : "datasets/ner_milk/sentence4_train_480.txt",
+  "validation_path": "datasets/ner_milk/sentence4_val_480.txt",
+  "testing_path": "datasets/ner_milk/sentence4_test_480.txt",
+  "labels": 4,
+  "epochs": 40
+}

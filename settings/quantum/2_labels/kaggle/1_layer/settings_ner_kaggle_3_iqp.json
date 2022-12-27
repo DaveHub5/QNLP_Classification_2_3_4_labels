@@ -1,0 +1,12 @@
+{
+  "type": "quantum",
+  "file_name": "settings_ner_kaggle_2_iqp.json",
+  "name": "ner_kaggle_2_iqp",
+  "training_path" : "datasets/ner_kaggle_2/final/sentence2_train_800.txt",
+  "validation_path": "datasets/ner_kaggle_2/final/sentence2_val_800.txt",
+  "testing_path": "datasets/ner_kaggle_2/final/sentence2_test_800.txt",
+  "number_layers": 1,
+  "ansatz_model": "IQP",
+  "labels": 2,
+  "epochs": 240
+}

@@ -1,0 +1,120 @@
+0  John who has a kid and a plant is unhappy .
+0  John who has a kid and a plant is bitter .
+0  John who has a kid and a plant is dismal .
+0  John who has a kid and a plant is heartbroken .
+0  John who has a kid and a plant is melancholy .
+0  John who has a kid and a plant is mournful .
+0  John who has a kid and a plant is somber .
+0  John who has a kid and a plant is sorrowful .
+0  John who has a kid and a sofa is unhappy .
+0  John who has a kid and a sofa is bitter .
+0  John who has a kid and a sofa is dismal .
+0  John who has a kid and a sofa is heartbroken .
+0  John who has a kid and a sofa is melancholy .
+0  John who has a kid and a sofa is mournful .
+0  John who has a kid and a sofa is somber .
+0  John who has a kid and a sofa is sorrowful .
+0  John who has a kid and a swimming pool is unhappy .
+0  John who has a kid and a swimming pool is bitter .
+0  John who has a kid and a swimming pool is dismal .
+0  John who has a kid and a swimming pool is heartbroken .
+0  John who has a kid and a swimming pool is melancholy .
+0  John who has a kid and a swimming pool is mournful .
+0  John who has a kid and a swimming pool is somber .
+0  John who has a kid and a swimming pool is sorrowful .
+0  John who has a kid and a garden is unhappy .
+0  John who has a kid and a garden is bitter .
+0  John who has a kid and a garden is dismal .
+0  John who has a kid and a garden is heartbroken .
+0  John who has a kid and a garden is melancholy .
+0  John who has a kid and a garden is mournful .
+0  John who has a kid and a garden is somber .
+0  John who has a kid and a garden is sorrowful .
+0  John who has a kid and a disease is unhappy .
+0  John who has a kid and a disease is bitter .
+0  John who has a kid and a disease is dismal .
+0  John who has a kid and a disease is heartbroken .
+0  John who has a kid and a disease is melancholy .
+0  John who has a kid and a disease is mournful .
+0  John who has a kid and a disease is somber .
+0  John who has a kid and a disease is sorrowful .
+0  John who has a kid and a car is unhappy .
+0  John who has a kid and a car is bitter .
+0  John who has a kid and a car is dismal .
+0  John who has a kid and a car is heartbroken .
+0  John who has a kid and a car is melancholy .
+0  John who has a kid and a car is mournful .
+0  John who has a kid and a car is somber .
+0  John who has a kid and a car is sorrowful .
+0  John who has a kid and a smartphone is unhappy .
+0  John who has a kid and a smartphone is bitter .
+0  John who has a kid and a smartphone is dismal .
+0  John who has a kid and a smartphone is heartbroken .
+0  John who has a kid and a smartphone is melancholy .
+0  John who has a kid and a smartphone is mournful .
+0  John who has a kid and a smartphone is somber .
+0  John who has a kid and a smartphone is sorrowful .
+0  John who has a plant and a kid is unhappy .
+0  John who has a plant and a kid is bitter .
+0  John who has a plant and a kid is dismal .
+0  John who has a plant and a kid is heartbroken .
+1  John who has a kid and a plant is cheerful .
+1  John who has a kid and a plant is contented .
+1  John who has a kid and a plant is delighted .
+1  John who has a kid and a plant is glad .
+1  John who has a kid and a plant is satisfied .
+1  John who has a kid and a plant is thrilled .
+1  John who has a kid and a plant is pleased .
+1  John who has a kid and a sofa is cheerful .
+1  John who has a kid and a sofa is contented .
+1  John who has a kid and a sofa is delighted .
+1  John who has a kid and a sofa is glad .
+1  John who has a kid and a sofa is satisfied .
+1  John who has a kid and a sofa is thrilled .
+1  John who has a kid and a sofa is pleased .
+1  John who has a kid and a swimming pool is cheerful .
+1  John who has a kid and a swimming pool is contented .
+1  John who has a kid and a swimming pool is delighted .
+1  John who has a kid and a swimming pool is glad .
+1  John who has a kid and a swimming pool is satisfied .
+1  John who has a kid and a swimming pool is thrilled .
+1  John who has a kid and a swimming pool is pleased .
+1  John who has a kid and a garden is cheerful .
+1  John who has a kid and a garden is contented .
+1  John who has a kid and a garden is delighted .
+1  John who has a kid and a garden is glad .
+1  John who has a kid and a garden is satisfied .
+1  John who has a kid and a garden is thrilled .
+1  John who has a kid and a garden is pleased .
+1  John who has a kid and a disease is cheerful .
+1  John who has a kid and a disease is contented .
+1  John who has a kid and a disease is delighted .
+1  John who has a kid and a disease is glad .
+1  John who has a kid and a disease is satisfied .
+1  John who has a kid and a disease is thrilled .
+1  John who has a kid and a disease is pleased .
+1  John who has a kid and a car is cheerful .
+1  John who has a kid and a car is contented .
+1  John who has a kid and a car is delighted .
+1  John who has a kid and a car is glad .
+1  John who has a kid and a car is satisfied .
+1  John who has a kid and a car is thrilled .
+1  John who has a kid and a car is pleased .
+1  John who has a kid and a smartphone is cheerful .
+1  John who has a kid and a smartphone is contented .
+1  John who has a kid and a smartphone is delighted .
+1  John who has a kid and a smartphone is glad .
+1  John who has a kid and a smartphone is satisfied .
+1  John who has a kid and a smartphone is thrilled .
+1  John who has a kid and a smartphone is pleased .
+1  John who has a plant and a kid is cheerful .
+1  John who has a plant and a kid is contented .
+1  John who has a plant and a kid is delighted .
+1  John who has a plant and a kid is glad .
+1  John who has a plant and a kid is satisfied .
+1  John who has a plant and a kid is thrilled .
+1  John who has a plant and a kid is pleased .
+1  John who has a plant and a sofa is cheerful .
+1  John who has a plant and a sofa is contented .
+1  John who has a plant and a sofa is delighted .
+1  John who has a plant and a sofa is glad .

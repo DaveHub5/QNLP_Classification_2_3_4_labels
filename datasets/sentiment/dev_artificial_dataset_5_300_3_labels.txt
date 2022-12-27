@@ -1,0 +1,15 @@
+0  John who has a plant and a sofa is somber .
+0  John who has a plant and a sofa is sorrowful .
+0  John who has a plant and a swimming pool is unhappy .
+0  John who has a plant and a swimming pool is bitter .
+0  John who has a plant and a swimming pool is dismal .
+1  John who has a plant and a garden is cheerful .
+1  John who has a plant and a garden is contented .
+1  John who has a plant and a garden is delighted .
+1  John who has a plant and a garden is glad .
+1  John who has a plant and a garden is satisfied .
+2  John who has a sofa and a kid is bored .
+2  John who has a sofa and a kid is tired .
+2  John who has a sofa and a kid is disinterested .
+2  John who has a sofa and a kid is uninterested .
+2  John who has a sofa and a kid is apathetic .
